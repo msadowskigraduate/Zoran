@@ -34,7 +34,7 @@
         <jgit.version>5.1.2.201810061102-r</jgit.version>
         <generator.version>0.8.0.BUILD-SNAPSHOT</generator.version>
         <mustache.version>0.9.6</mustache.version>
-        <ant.version>1.10.1</ant.version>
+        <ant.version>1.10.11</ant.version>
 
         <!-- swagger -->
         <springfox.version>2.9.2</springfox.version>
